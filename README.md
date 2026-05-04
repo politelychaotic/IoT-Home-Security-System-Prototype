@@ -64,7 +64,7 @@ Recorded session showing baseline (~30in), a simulated intrusion event (near 0in
 
 Water detection and automated lighting run concurrently with intrusion detection. All alerts print to Serial Monitor in real time.
 
-![Build with distance sensor](assets/with_distance_sensor.png)
+![Build with distance sensor](assets/with_distance_sensor.jpg)
 
 ### Serial Monitor Output
 
